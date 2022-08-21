@@ -18,7 +18,7 @@
     margin-right: 12px;
 }
 
-.nav-social {
+ .nav-social {
     position: relative;
     width: 21px;
     cursor: pointer;
@@ -79,12 +79,11 @@
     left: -46% !important;
 }
 
-.img-overlay {
+.img-overlay{
     position: absolute;
-    top: -150px;
-    bottom: 0;
-    left: -60%;
-    right: 0;
+    top: 0;
+    margin-top:250px;
+    margin-left:100px;
     text-align: center;
 }
 
@@ -218,4 +217,4 @@
         color: white;
         left: -45% !important;
     }
-  }
+  } 
